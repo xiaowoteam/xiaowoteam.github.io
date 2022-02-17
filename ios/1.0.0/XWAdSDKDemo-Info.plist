@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.fastgit.org/xiaowoteam/xiaowoteam.github.io/main/ios/1.0.0/XWAdSDKDemo.ipa</string>
+					<string>https://xiaowoteam.github.io/ios/1.0.0/XWAdSDKDemo.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
